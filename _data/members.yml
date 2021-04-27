@@ -53,9 +53,21 @@
   github: mujakob
 
 - name: Amer Catic
-  role: Researcher
+  role: Guest Researcher
   url: https://www.chalmers.se/en/staff/Pages/acatic.aspx
   picture: amer-catic.jpg
+  github: 
+
+- name: Michael Kokkolaras
+  role: Guest Researcher
+  url: https://www.mcgill.ca/mecheng/people/staff/michael-kokkolaras
+  picture: michael-kokkolaras.jpg
+  github: 
+
+- name: Timo Kero
+  role: Guest Researcher
+  url: https://research.chalmers.se/en/person/md0timo
+  picture: missing.png
   github: 
 
 - name: Daniel Stenholm
@@ -76,11 +88,29 @@
   picture: olivia-borgue.jpg
   github: oliviaborgue
 
+- name: Mikael Ström
+  role: Doctoral Student
+  url: https://www.chalmers.se/en/staff/Pages/mstrom.aspx
+  picture: missing.png
+  github: 
+
+- name: Malin Hane Hagström
+  role: Doctoral Student
+  url: https://www.chalmers.se/en/Staff/Pages/hanem.aspx
+  picture: missing.png
+  github: 
+
 - name: Iñigo Alonso Fernandez
   role: Doctoral Student
   url: https://www.chalmers.se/en/staff/Pages/inigo-alonso.aspx
   picture: inigo-alonso-fernandez.jpg
   github: inigoalonso
+
+- name: Szandra Koveces
+  role: Doctoral Student
+  url: https://www.chalmers.se/en/staff/Pages/julianm.aspx
+  picture: missing.png
+  github: 
 
 - name: Julian Martinsson
   role: Doctoral Student
