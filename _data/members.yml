@@ -1,0 +1,95 @@
+- name: Ola Isaksson
+  role: Group Leader
+  url: https://www.chalmers.se/en/staff/Pages/iola.aspx
+  picture: ola-isaksson.jpg
+  github: 
+
+- name: Johan Malmqvist
+  role: Full Professor
+  url: https://www.chalmers.se/en/staff/Pages/joma.aspx
+  picture: johan-malmqvist.jpg
+  github: 
+
+- name: Lars Almefelt
+  role: Senior Lecturer
+  url: https://www.chalmers.se/en/staff/Pages/alme.aspx
+  picture: lars-almefelt.jpg
+  github: 
+
+- name: Göran Gustafsson
+  role: Senior Lecturer
+  url: https://www.chalmers.se/en/staff/Pages/gorang.aspx
+  picture: goran-gustafsson.jpg
+  github: 
+
+- name: Dag Henrik Bergsjö
+  role: Associate Professor
+  url: https://www.chalmers.se/en/staff/Pages/dagb.aspx
+  picture: dag-henrik-bergsjo.jpg
+  github: 
+
+- name: Massimo Panarotto
+  role: Associate Professor
+  url: https://www.chalmers.se/en/staff/Pages/maspan.aspx
+  picture: massimo-panarotto.jpg
+  github: massimop-tech
+
+- name: Hans L Johannesson
+  role: Professor Emeritus
+  url: https://www.chalmers.se/en/staff/Pages/hansj.aspx
+  picture: hans-l-johannesson.jpg
+  github: 
+
+- name: Mats Alemyr
+  role: Lecturer
+  url: https://www.chalmers.se/en/staff/Pages/malemyr.aspx
+  picture: mats-alemyr.jpg
+  github: 
+
+- name: Jakob Müller
+  role: Researcher
+  url: https://www.chalmers.se/en/staff/Pages/mujakob.aspx
+  picture: jakob-muller.jpg
+  github: mujakob
+
+- name: Amer Catic
+  role: Researcher
+  url: https://www.chalmers.se/en/staff/Pages/acatic.aspx
+  picture: amer-catic.jpg
+  github: 
+
+- name: Daniel Stenholm
+  role: Forskare
+  url: https://www.chalmers.se/en/staff/Pages/dansten.aspx
+  picture: daniel-stenholm.jpg
+  github: 
+
+- name: Maria Daniela Irene Siiskonen
+  role: Doctoral Student
+  url: https://www.chalmers.se/en/staff/Pages/simaria.aspx
+  picture: maria-daniela-irene-siiskonen.jpg
+  github: 
+
+- name: Olivia Borgue
+  role: Doctoral Student
+  url: https://www.chalmers.se/en/staff/Pages/borgue.aspx
+  picture: olivia-borgue.jpg
+  github: oliviaborgue
+
+- name: Iñigo Alonso Fernandez
+  role: Doctoral Student
+  url: https://www.chalmers.se/en/staff/Pages/inigo-alonso.aspx
+  picture: inigo-alonso-fernandez.jpg
+  github: inigoalonso
+
+- name: Julian Martinsson
+  role: Doctoral Student
+  url: https://www.chalmers.se/en/staff/Pages/julianm.aspx
+  picture: missing.png
+  github: johnmartins
+
+- name: Adam Mallalieu
+  role: Doctoral Student
+  url: https://www.chalmers.se/en/staff/Pages/adammal.aspx
+  picture: missing.png
+  github: 

@@ -1,0 +1,31 @@
+<section class="no-padding" id="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Team</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row no-gutter">
+            {% for member in site.data.members %}
+            <div class="col-lg-2 col-sm-3">
+                <a href="{{ member.url }}" class="team-box">
+                    <img src="img/team/{{ member.picture }}" class="image img-circle center-block" alt="">
+                    <div class="team-box-caption">
+                        <div class="team-box-caption-content">
+                            <div class="person-category text-faded">
+                                {{ member.role }}
+                            </div>
+                            <div class="person-name">
+                                {{ member.name }}
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
