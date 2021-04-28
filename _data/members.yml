@@ -6,13 +6,13 @@
 
 - name: Johan Malmqvist
   role: Full Professor
-  url: https://www.chalmers.se/en/staff/Pages/joma.aspx
+  url: https://www.chalmers.se/en/staff/Pages/johan-malmqvist.aspx
   picture: johan-malmqvist.jpg
   github: 
 
 - name: Lars Almefelt
   role: Senior Lecturer
-  url: https://www.chalmers.se/en/staff/Pages/alme.aspx
+  url: https://www.chalmers.se/en/staff/Pages/lars-almefelt.aspx
   picture: lars-almefelt.jpg
   github: 
 
@@ -30,7 +30,7 @@
 
 - name: Massimo Panarotto
   role: Associate Professor
-  url: https://www.chalmers.se/en/staff/Pages/maspan.aspx
+  url: https://www.chalmers.se/en/staff/Pages/massimo-panarotto.aspx
   picture: massimo-panarotto.jpg
   github: massimop-tech
 
@@ -42,19 +42,19 @@
 
 - name: Mats Alemyr
   role: Lecturer
-  url: https://www.chalmers.se/en/staff/Pages/malemyr.aspx
+  url: https://www.chalmers.se/en/staff/Pages/mats-alemyr.aspx
   picture: mats-alemyr.jpg
   github: 
 
 - name: Jakob Müller
   role: Researcher
-  url: https://www.chalmers.se/en/staff/Pages/mujakob.aspx
+  url: https://www.chalmers.se/en/staff/Pages/Jakob-M%C3%BCller.aspx
   picture: jakob-muller.jpg
   github: mujakob
 
 - name: Amer Catic
   role: Guest Researcher
-  url: https://www.chalmers.se/en/staff/Pages/acatic.aspx
+  url: https://www.chalmers.se/en/staff/Pages/amer-catic.aspx
   picture: amer-catic.jpg
   github: 
 
@@ -108,7 +108,7 @@
 
 - name: Szandra Koveces
   role: Doctoral Student
-  url: https://www.chalmers.se/en/staff/Pages/julianm.aspx
+  url: https://www.chalmers.se/en/staff/Pages/szandra.aspx
   picture: missing.png
   github: 
 
