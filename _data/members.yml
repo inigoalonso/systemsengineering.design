@@ -35,12 +35,14 @@
   github: massimop-tech
 
 - name: Hans L Johannesson
+  alumni: true
   role: Professor Emeritus
   url: https://www.chalmers.se/en/staff/Pages/hansj.aspx
   picture: hans-l-johannesson.jpg
   github: 
 
 - name: Mats Alemyr
+  alumni: true
   role: Lecturer
   url: https://www.chalmers.se/en/staff/Pages/mats-alemyr.aspx
   picture: mats-alemyr.jpg
@@ -65,12 +67,14 @@
   github: 
 
 - name: Timo Kero
+  alumni: true
   role: Guest Researcher
   url: https://research.chalmers.se/en/person/md0timo
   picture: missing.png
   github: 
 
 - name: Daniel Stenholm
+  alumni: true
   role: Forskare
   url: https://www.chalmers.se/en/staff/Pages/dansten.aspx
   picture: daniel-stenholm.jpg
