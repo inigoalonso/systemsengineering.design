@@ -1,0 +1,41 @@
+- name: VISP - Value and flexibility Impact analysis for Sustainable Production
+  status: Active
+  url: https://www.chalmers.se/en/projects/Pages/VISP---Value-and-flexibility-Impact-analysis-for-Sustainable.aspx
+  picture: visp.jpg
+  github: 
+
+- name: DSIP - Digital Sustainability Implementation Package
+  status: Active
+  url: https://www.bth.se/forskning/forskningsomraden/strategisk-hallbar-utveckling/digital-sustainability-implementation-package-dsip/
+  picture: dsip.jpg
+  github: 
+
+- name: KIDSAM - Knowledge and information-sharing in digital collaborative projects
+  status: Active
+  url: https://www.chalmers.se/en/projects/Pages/KIDSAMQ-Knowledge--and-information-sharing-in-digital.aspx
+  picture: project-blue.jpg
+  github: 
+
+- name: DPT - Digital platform twin
+  status: Active
+  url: https://www.chalmers.se/en/projects/Pages/Digital-platform-twin---DPT.aspx
+  picture: project-pink.jpg
+  github: 
+
+- name: DIAS - Development of Interdisciplinary Assessment for manufacturing and deSign
+  status: Active
+  url: https://www.chalmers.se/en/projects/Pages/Development-of-Interdisciplinary-Assessment-for-manufacturing.aspx
+  picture: project-green.jpg
+  github: 
+
+- name: DIFAM - Development of efficient DIgital product FAMily design platform to increase cost efficiency
+  status: Active
+  url: https://www.chalmers.se/en/projects/Pages/Development-of-efficient-DIgital-product-FAMily-design-platform.aspx
+  picture: project-orange.jpg
+  github: 
+
+- name: DiDAM - Demonstration of Infrastructure for Digitalization enabling industrialization of Additive Manufacturing
+  status: Active
+  url: https://www.chalmers.se/en/projects/Pages/Demonstration-of-Infrastructure-for-Digitalization-enabling.aspx
+  picture: didam.jpg
+  github: 
