@@ -1,3 +1,7 @@
 - name: Test paper
   authors: Someone Cool, Somebody Else 
   url: https://www.chalmers.se
+
+- name: Test paper 2
+  authors: Someone Cool, Somebody Else 
+  url: https://www.chalmers.se
