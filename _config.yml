@@ -1,8 +1,8 @@
 # Site settings
-title: Systems Engineering Design
+title: Systems Engineering Design Laboratory
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  The SED Group homepage
+  The SEDLab homepage
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://systemsengineering.design" # the base hostname & protocol for your site
 
