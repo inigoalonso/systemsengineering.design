@@ -1,0 +1,5 @@
+- name: Test course
+  description: A detailed exploration of tests.
+  status: Active
+  url: https://www.chalmers.se
+  picture: 

@@ -1,0 +1,5 @@
+- name: Test method
+  description: A detailed method for testing.
+  status: Active
+  url: https://www.chalmers.se
+  picture: 
