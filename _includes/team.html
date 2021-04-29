@@ -11,7 +11,7 @@
         <div class="row no-gutter randomize">
             {% for member in site.data.members %}
             {% unless member.alumni == true %}
-            <div class="col-lg-2 col-md-3 col-sm-6 col-12">
+            <div class="col-lg-2 col-md-3 col-sm-6 col-12 wow bounceInLeft" data-wow-delay=".1s">
                 <a href="{{ member.url }}" class="team-box">
                     <img src="img/team/{{ member.picture }}" class="image img-circle center-block" alt="">
                     <div class="team-box-caption">
