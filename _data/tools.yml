@@ -18,7 +18,7 @@
 - name: Value modeller
   description: Value Driven Design application
   status: Active
-  lead: Massimo Panarotto
+  lead: Iñigo Alonso Fernandez
   url: https://sedlab-valueapp.netlify.app/
   picture: 
-  github: https://github.com/sed-group/sedlab-value
+  github: https://github.com/sed-group/sedlab-valueapp
